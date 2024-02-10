@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#C7E8C8"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -23,6 +24,7 @@
         android:layout_marginTop="5dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
+        android:background="#C8ABA9"
         android:gravity="right"
         android:hint="@string/enter_a_number"
         android:padding="20dp"
@@ -36,6 +38,7 @@
         android:layout_marginLeft="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
+        android:background="#D5B7B7"
         android:gravity="right"
         android:textSize="48sp" />
 
@@ -47,6 +50,7 @@
         android:layout_marginTop="100dp"
         android:layout_marginEnd="20dp"
         android:layout_marginRight="20dp"
+        android:background="#5C401818"
         android:orientation="vertical"
         android:padding="10dp">
 
