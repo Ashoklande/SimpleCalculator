@@ -3,6 +3,11 @@ used only basic operation in this application ,basically used own idea or logic 
 All function like addition ,substraction , multiplicaiton and division and perform.
 
 
+simple step to used it
+first add first number then select one of the operation like +,- ect.
+then hit equal button ,you will get result.
+
+
 
 
                                     Simple screenshot here....
